@@ -1,6 +1,6 @@
 # bluetooth_chat_app
 
-A new Flutter project.
+A new Flutter project for Bluetooth communication.
 
 ## Getting Started
 
